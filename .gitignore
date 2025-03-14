@@ -1,0 +1,4 @@
+.config
+**.kernel_config_md5
+**.cmd
+**.o
